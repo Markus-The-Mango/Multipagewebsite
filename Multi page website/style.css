@@ -1,0 +1,82 @@
+/*
+#64C6C4 teal
+#A4CB6A green
+#DCEAC7 light green
+#212245 dark blue
+#ffffff white
+AAC527 bright green
+E9E9E5 light gray
+D4D6C9 dark gray
+343432 darkest gray
+F9F9F9 lightest gray
+
+*/
+body{
+    background-color:#D4D6C9 ;
+}
+#logo{
+    width: 75px;
+    height: 75px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.menu a{
+    color:#212245;
+    text-align: center;
+    margin-bottom: auto;
+    margin-top: auto;
+
+}
+.menu{
+    font-size: 60px;
+    background-color: #f9f9f9;
+    border-style: double;
+}
+h1{
+    color:#64c6c4;
+    font-size:75px;
+    text-align: center;
+    margin-top:0px ;
+    font-family: monospace;   
+    font-weight: lighter; 
+}
+h2{
+    color:#64c6c4;
+    font-size:56px;
+    text-align: center;
+    margin-top:0px ;
+    font-family: monospace;   
+    font-weight: lighter; 
+}
+h3{
+    color:#64c6c4;
+    font-size:48px;
+    text-align: center;
+    margin-top:0px ;
+    font-family: monospace;   
+    font-weight: lighter; 
+}
+h4{
+    color:#64c6c4;
+    font-size:40px;
+    text-align: center;
+    margin-top:0px ;
+    font-family: monospace;   
+    font-weight: lighter; 
+}
+h5{
+    color:#64c6c4;
+    font-size:32px;
+    text-align: center;
+    margin-top:0px ;
+    font-family: monospace;   
+    font-weight: lighter; 
+}
+h6{
+    color:#64c6c4;
+    font-size:24px;
+    text-align: center;
+    margin-top:0px ;
+    font-family: monospace;   
+    font-weight: lighter; 
+}
