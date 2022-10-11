@@ -11,114 +11,125 @@ D4D6C9 dark gray
 F9F9F9 lightest gray
 
 */
-body{
-    background-color:#D4D6C9 ;
+body {
+    background-color: #D4D6C9;
 }
 
 
-h1{
-    color:#64c6c4;
-    font-size:75px;
+h1 {
+    color: #64c6c4;
+    font-size: 75px;
     text-align: center;
-    margin-top:0px ;
-    font-family: monospace;   
-    font-weight: lighter; 
+    margin-top: 0px;
+    font-family: monospace;
+    font-weight: lighter;
 }
-h2{
-    color:#64c6c4;
-    font-size:56px;
+
+h2 {
+    color: #64c6c4;
+    font-size: 56px;
     text-align: center;
-    margin-top:0px ;
-    font-family: monospace;   
-    font-weight: lighter; 
+    margin-top: 0px;
+    font-family: monospace;
+    font-weight: lighter;
 }
-h3{
-    color:#64c6c4;
-    font-size:48px;
+
+h3 {
+    color: #64c6c4;
+    font-size: 48px;
     text-align: center;
-    margin-top:0px ;
-    font-family: monospace;   
-    font-weight: lighter; 
+    margin-top: 0px;
+    font-family: monospace;
+    font-weight: lighter;
 }
-h4{
-    color:#64c6c4;
-    font-size:40px;
+
+h4 {
+    color: #64c6c4;
+    font-size: 40px;
     text-align: center;
-    margin-top:0px ;
-    font-family: monospace;   
-    font-weight: lighter; 
+    margin-top: 0px;
+    font-family: monospace;
+    font-weight: lighter;
 }
-h5{
-    color:#64c6c4;
-    font-size:32px;
+
+h5 {
+    color: #64c6c4;
+    font-size: 32px;
     text-align: center;
-    margin-top:0px ;
-    font-family: monospace;   
-    font-weight: lighter; 
+    margin-top: 0px;
+    font-family: monospace;
+    font-weight: lighter;
 }
-h6{
-    color:#64c6c4;
-    font-size:24px;
+
+h6 {
+    color: #64c6c4;
+    font-size: 24px;
     text-align: center;
-    margin-top:0px ;
-    font-family: monospace;   
-    font-weight: lighter; 
+    margin-top: 0px;
+    font-family: monospace;
+    font-weight: lighter;
 }
-table{
-    
-   
-    border-width:2px;
+
+table {
+
+
+    border-width: 2px;
 }
-td{
+
+td {
     border-style: solid;
-    border-width:2px;
+    border-width: 2px;
 }
-th{
+
+th {
     border-style: solid;
-    border-width:2px;
+    border-width: 2px;
     border-color: black;
-    color:#212245;
-    font-size:24px;
+    color: #212245;
+    font-size: 24px;
     text-align: center;
-    margin-top:0px ;
-    font-family: monospace;   
-    font-weight: lighter; 
+    margin-top: 0px;
+    font-family: monospace;
+    font-weight: lighter;
 }
-.button{
-    
+
+.button {
+
     border-style: solid;
-    border-width:2px;
+    border-width: 2px;
     border-color: #212245;
     background-color: #fff;
-    color:#212245;
-    font-size:40px;
+    color: #212245;
+    font-size: 40px;
     text-align: center;
     text-decoration: none;
-    font-family: monospace;   
-    font-weight: lighter; 
+    font-family: monospace;
+    font-weight: lighter;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
     margin-top: auto;
 }
-.button:hover{
-    
+
+.button:hover {
+
     border-style: solid;
-    border-width:2px;
-    border-color:#fff ;
+    border-width: 2px;
+    border-color: #fff;
     background-color: #212245;
-    color:#fff;
-    font-size:40px;
+    color: #fff;
+    font-size: 40px;
     text-align: center;
     text-decoration: none;
-    font-family: monospace;   
-    font-weight: lighter; 
+    font-family: monospace;
+    font-weight: lighter;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
     margin-top: auto;
 }
-#logo{
+
+#logo {
     width: 75px;
     height: 75px;
     padding-left: 2%;
@@ -126,52 +137,65 @@ th{
     padding-top: 1%;
 }
 
-nav{
+nav {
     display: flex;
     background-color: #fff;
 }
-.Upcoming{
+
+.Upcoming {
     font-size: 35px;
-    font-family: monospace;   
-    font-weight: lighter; 
-    
+    font-family: monospace;
+    font-weight: lighter;
+
     text-align: center;
 }
+
 .Upcoming ul {
     margin: 5px;
-    display:inline-block;
+    display: inline-block;
 }
-.Upcoming h4{
-    font-family: monospace;   
-    font-weight: lighter; 
+
+.Upcoming h4 {
+    font-family: monospace;
+    font-weight: lighter;
     text-align: center;
 }
-.Upcoming h5{
-    font-family: monospace;   
-    font-weight: lighter; 
+
+.Upcoming h5 {
+    font-family: monospace;
+    font-weight: lighter;
     text-align: center;
     margin-bottom: 1px;
 }
-#important{
-    color:#AAC527;
+
+#important {
+    color: #AAC527;
     font-weight: bold;
 }
-#officers{
+
+#officers {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     font-size: 32px;
     background-color: #343432;
-    color:#fff;
+    color: #fff;
     border-style: solid;
-    border-width:2px;
-    border-color:#AAC527 ;
-    
+    border-width: 2px;
+    border-color: #AAC527;
+
 }
+
 #officers th {
     font-size: 40px;
     background-color: #fff;
-    color:#212245;
+    color: #212245;
 }
 
+iframe {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
 
